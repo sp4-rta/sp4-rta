@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sp4-rta
+- 👀 I’m interested in computer science in genral
+- 🌱 I’m currently learning web technologies and cp
